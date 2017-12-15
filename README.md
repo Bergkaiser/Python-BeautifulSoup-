@@ -1,0 +1,2 @@
+# Python-Beautifulsoup
+Python的Beautifulsoup库使用方法介绍以及网络资源爬取的代码
